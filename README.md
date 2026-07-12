@@ -41,8 +41,9 @@ const suprajit = {
 
 ### 🚀 Featured Projects
 
-> This is a brand-new GitHub account, so there are no public repos to pin just yet.
-> Featured projects will show up here as soon as they're live — check back soon! ⭐
+> *This is the start of my GitHub journey — my first repositories are currently in the works.*
+> *Check back soon to see what I've been building!* 🌱
+
 
 ---
 
